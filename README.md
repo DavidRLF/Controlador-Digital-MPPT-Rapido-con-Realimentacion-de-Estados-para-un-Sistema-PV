@@ -5,6 +5,7 @@ El siguiente procedimiento muestra un diseño detallado del controlador por retr
 Para ejecutar los modelos de simulación primero ejecutar el programa "M_ELECTRO2025_V1" en Matlab y seguido ejecutar el modelo de Simulink "S_ELECTRO2025_V1"
 
 <img src="https://github.com/user-attachments/assets/ce7bf9b0-f72e-4707-a8a0-5804eca8acb2" alt="Imagen 1" width="600"/>
+
 <img src="https://github.com/user-attachments/assets/ed17a044-5a49-4bac-a78b-121df6ca4d88" alt="Imagen 2" width="600"/>
 
 
