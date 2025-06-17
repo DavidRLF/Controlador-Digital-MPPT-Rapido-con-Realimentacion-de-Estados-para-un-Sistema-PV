@@ -7,8 +7,8 @@ Para ejecutar los modelos de simulación primero ejecutar el programa "M_ELECTRO
 
 <img src="https://github.com/user-attachments/assets/ce7bf9b0-f72e-4707-a8a0-5804eca8acb2" alt="Imagen 1" width="600"/>
 
+<img src="https://github.com/user-attachments/assets/77f11219-26df-4009-b299-be209477d8f1" alt="Imagen 1" width="600"/>
 
-<img src="https://github.com/user-attachments/assets/ed17a044-5a49-4bac-a78b-121df6ca4d88" alt="Imagen 2" width="600"/>
 
 S_ELECTRO_2025_MTET_NoInt_EnvDatos_V1 se programa en la tarjeta F28069M y S_GRAF_ELECTRO_2025_MTET_NoInt_EnvDatos_V1 se ejecuta en Matlab/Simulink para verificar la funcionalidad del código (controlador) mediante la graficacion de la corriente del arreglo PV (ipv), la corriente en el punto MPP (Imppt) y el voltaje del bus de dc (vdc). 
 
